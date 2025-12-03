@@ -14,8 +14,9 @@ h1{
     border-radius: 25px;
 }
 
-*{
-    margin: 20px;
+div p{
+    background-color: brown;
+    border-radius: 25px;
 }
 
 .clase2{
@@ -33,5 +34,47 @@ h1{
 }
 
 *:hover{
-    background-color: chocolate;
+    background-color: aqua;
+}
+
+.imagen{
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px;
+}
+
+#nombre{
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.numero{
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px;
+}
+
+#ig{
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.info{
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px;
+}
+
+#dueño{
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px;
 }
