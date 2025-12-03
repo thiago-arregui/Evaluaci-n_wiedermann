@@ -1,0 +1,18 @@
+h1{
+    background-color: red;
+    border-radius: 25px;
+}
+
+.clase{
+    background-color: blue;
+    border-radius: 25p;
+}
+
+#id{
+    background-color: green;
+    border-radius: 25p;
+}
+
+*{
+    margin: 10px;
+}
